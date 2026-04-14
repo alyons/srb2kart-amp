@@ -4,13 +4,13 @@
         "Port": "5029",
         "Name": "Kart Server",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "game"
     },
     {
         "Protocol": "Both",
         "Port": "5080",
         "Name": "HTTP Files",
         "Description": "Port used for serving mods",
-        "Ref": ""
+        "Ref": "http"
     }
 ]
